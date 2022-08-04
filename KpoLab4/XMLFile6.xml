@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<values>
+	<table xmlns="http://www.w3.org/TR/html4/">
+		<tr>
+			<td>Пирожки</td>
+			<td>Семечки</td>
+			<td>Арбузы</td>
+		</tr>
+	</table>
+
+	<table xmlns="http://www.w3schools.com/furniture">
+		<name>Игровой стол Razer</name>
+		<width>150</width>
+		<length>80</length>
+		<price>999999999</price>
+	</table>
+</values>
